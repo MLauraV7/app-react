@@ -1,0 +1,9 @@
+.icono-carrito {
+  font-size: 2rem;
+  color: #f5c518;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+.icono-carrito:hover {
+  transform: scale(1.2);
+}

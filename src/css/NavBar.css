@@ -1,0 +1,26 @@
+.saludo{
+    text-align: center;
+    padding: 20px;
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);
+}
+.nav-container{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/832/377/non_2x/dark-green-background-with-spots-glitter-abstract-illustration-with-colorful-drops-pattern-for-wallpapers-curtains-vector.jpg);
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    align-items: center;
+    color: black;
+}
+.nav-link{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: sans-serif;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+.nav-link:hover {
+    transform: scale(1.2);
+}
