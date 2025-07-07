@@ -22,7 +22,7 @@ Se trata de un e-commerce simple donde se pueden explorar productos, ver detalle
 
 ## 💻 Versión Online
 
-Si desea ver el proyecto online, puede ingresar al siguiente link: [link-vercel](https://app-react-lime.vercel.app/)
+Si desea ver el proyecto online, puede ingresar al siguiente link: [AmatistaStore](https://app-react-lime.vercel.app/)
 
 ---
 
