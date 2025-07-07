@@ -1,9 +1,12 @@
-import { IoCartOutline } from "react-icons/io5";
-import '../css/CartWidget.css'
+import '../css/CartWidget.css';
+import { FaShoppingCart } from "react-icons/fa";
 
 const CartWidget = () => {
-    return(
-        <IoCartOutline className="icono-carrito"/>
-    )
-}
-export default CartWidget
+  return (
+    <span className="icono-carrito">
+      <FaShoppingCart />
+    </span>
+  );
+};
+
+export default CartWidget;

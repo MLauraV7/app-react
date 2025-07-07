@@ -8,16 +8,14 @@
   cursor: pointer;
   transition: background-color 0.2s ease;
 }
-
 .btn:hover {
   background-color: #ddd;
 }
-
 .compra {
   text-decoration: none;
   margin-top: 12px;
   padding: 10px 20px;
-  background-color: #125b23; /* verde */
+  background-color: #125b23;
   color: white;
   border: none;
   border-radius: 6px;
@@ -25,11 +23,9 @@
   cursor: pointer;
   transition: background-color 0.2s ease;
 }
-
 .compra:hover {
   background-color: #218838;
 }
-
 .compra:disabled {
   background-color: #cccccc;
   cursor: not-allowed;
